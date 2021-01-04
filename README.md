@@ -1,2 +1,3 @@
 # hello-world
-Starting Step
+Starting Step.
+That's it.
